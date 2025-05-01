@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "426433137402",
+    "project_id": "smartfab-tracker-d2ea8",
+    "storage_bucket": "smartfab-tracker-d2ea8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426433137402:android:e2c1ffc7cdee934c135743",
+        "android_client_info": {
+          "package_name": "com.example.smartfab_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiAoLbbrIh7jZ75sYJmfHJWf-eP1J2fCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426433137402:android:d251261c48f7eb57135743",
+        "android_client_info": {
+          "package_name": "com.example.smartfab_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiAoLbbrIh7jZ75sYJmfHJWf-eP1J2fCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426433137402:android:fee70790c42bde66135743",
+        "android_client_info": {
+          "package_name": "com.smartfab.tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiAoLbbrIh7jZ75sYJmfHJWf-eP1J2fCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
